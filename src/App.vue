@@ -30,8 +30,4 @@ export default {};
 html {
   font-family: "Roboto", sans-serif;
 }
-
-.page {
-  position: relative;
-}
 </style>

@@ -11,6 +11,9 @@ import {
   faUsers,
   faHistory,
   faBuilding,
+  faInfo,
+  faBook,
+  faBalanceScaleLeft,
 } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
 
@@ -20,7 +23,10 @@ library.add(
   faTools,
   faUsers,
   faHistory,
-  faBuilding
+  faBuilding,
+  faInfo,
+  faBook,
+  faBalanceScaleLeft
 );
 
 import App from "./App.vue";

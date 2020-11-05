@@ -68,14 +68,13 @@ export default {
 .icon {
   width: 90%;
   height: auto;
-  max-height: 50px;
+  max-height: 45px;
   justify-self: center;
   color: var(--navy);
 }
 
 .ikona {
   padding: 5px;
-  border-radius: 3px;
 }
 
 .tekst {

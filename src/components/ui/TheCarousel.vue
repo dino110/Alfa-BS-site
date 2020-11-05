@@ -15,6 +15,13 @@
           alt="..."
         />
       </div>
+      <div class="carousel-item ">
+        <img
+          src="../../assets/elob_manji.png"
+          class="d-block w-100"
+          alt="..."
+        />
+      </div>
     </div>
     <a
       class="carousel-control-prev"
@@ -50,5 +57,13 @@ export default {};
 
 .vod {
   padding-top: 40px;
+}
+
+.carousel-control-next .carousel-control-prev-icon,
+.carousel-control-prev .carousel-control-next-icon {
+  font-size: 200px;
+  color: var(--navy);
+  background-color: chocolate;
+  border: 2px solid black;
 }
 </style>
